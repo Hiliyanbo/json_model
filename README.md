@@ -1,3 +1,7 @@
+<!--
+ * @Author: yanbo.li
+ * @Date: 2020-07-28 17:19:49
+--> 
 
 Language: [English](README.md) | [中文简体](README-ZH.md)
 
@@ -15,7 +19,7 @@ Gernerating Dart model class from Json file.
 dev_dependencies:
   json_model:
     git: 
-      url: "https://github.com/wbtvc/json_model.git"
-  build_runner: ^1.6.0
-  json_serializable: ^3.0.0
+      url: https://github.com/Hiliyanbo/json_model.git
+  build_runner: ">=1.6.0"
+  json_serializable: ">=3.0.0"
 ```
